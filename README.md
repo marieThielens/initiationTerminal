@@ -12,7 +12,8 @@ Créez un document texte qui va servir de résumé :
   - de créer un répertoire ;
   - de créer un fichier ;
   - de renommer ce fichier ;
-  - de supprimer ce fichier.
+  - de supprimer ce fichier ;
+  - de copier un fichier ou un dossier d'un endroit à un autre ; 
 
 Si tu ne sais pas, c'est le moment de demander à ton nouveau BFF : Google !
 En effet, chez BeCode, avant de demander à son voisin, on demande d'abord à Internet.
