@@ -1,10 +1,33 @@
 1. Qu'est-ce qu'un terminal ? 
+
+Le terminal est un outil intimidant aux premiers abords, mais au final se révèle pas compliqué. C’est une version texte de l’explorateur de fichiers : on peut ouvrir des dossiers, créer des fichiers, les lancer, les renommer, installer des programmes, et bien d’autres choses. On dit que c’est une CLI (Command Line Interface), comparée à la GUI (Graphical User Interface) de l’explorateur normal. Tout est fait via clavier, donc pas besoin de souris dans le terminal.
+
 2. Comment lancer le terminal ? 
+
+Sur Linux : `CTRL + ALT + T`
+Sur macOS : `CMD + SPACE`, puis écrire Terminal (ou iTerm), Enter.
+
 3. Quelle est la commande qui permet ? 
-  - de savoir exactement où tu te trouves, dans quel dossier ? ; 
-  - d'afficher le contenu d'un répertoire/ d'un dossier. Faites une capture d'écran du résultat de cette commande et mettez l'image dans votre document word ;
-  - de créer un dossier ;
-  - de créer un fichier ; 
-  - de renommer ce fichier ;
-  - de supprimer ce fichier ;
-  - de copier un fichier ou un dossier d'un endroit à un autre ; 
+  - de naviguer entre les dossier ; `cd`
+  - de savoir exactement où tu te trouves, dans quel dossier ? ; `pwd`
+  - d'afficher le contenu d'un répertoire/ d'un dossier : `ls`
+  - de créer un dossier ; `cd nomdudossier`
+  - de créer un fichier ; `touch nomdufichier`
+  - de renommer ce fichier ; `cp fichier_à_copier lieu_de_destination`
+  - de supprimer ce fichier ; `rm nomdufichier`
+  - de supprimer un dossier et son contenu ; `rm -r nomdufichier`
+  - de déplacer un fichier ou un dossier d'un endroit à un autre ; `mv [fichier_à_déplacer] [lieu_de_destination]`
+  
+  - 
+  
+  4. Qu'est-ce que Vim ? 
+  
+Vim est un des éditeurs de texte les plus respectés au monde. Comme il passe uniquement par le terminal, il se marie extrêmement bien avec cet outil. Et comme vim utilise exclusivement le clavier, ses raccourcis permettent d’aller extrêmement vite. ICi nous voyons Vim pour la culture générale.
+
+- Commande pour ouvrir vim sur un fichier ; `vim nomdufichier`
+- commande pour quitter vim : `:q!`
+
+## Sources
+
+https://blog.thehackingproject.org/2018/08/08/decouvrir-le-terminal/
+  
