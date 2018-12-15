@@ -26,11 +26,8 @@ Pour t'exercer, lance le terminal en appuyant simultanément sur `CTRL + ALT + T
 - Créé un dossier [Terminal].
 - Va dans le dossier [Terminal] et crée un fichier `terminal.txt`.
 - Ouvre le fichier et répond aux questions demandées précedemment.
-- Tjs dans le dossier [Terminal] et crée un fichier `terminal.md`.
-- Ouvre le fichier et inscris ton nom dedans avant de le sauvegarder.
-- Crée un second fichier, toujours dans le même répertoire, nomme le `readme.md`.
-- Toujours dans [Terminal], crée un nouveau fichier que tu nommes avec ton propre nom-prenom et avec l'extension `md`. Dedans, rédige un petit texte qui répondrait à la question "Pourquoi être apprenant chez BeCode".
+- Tjs dans le dossier [Terminal] renomme le fichier `terminal.txt` en `terminal.md`. Cette extention .md signifie que nous allons créer un fichier markdown. Nous verrons ce point plus en profondeur demain.
+- Crée un second fichier, toujours dans le même dossier, nomme le `readme.md`. Dans ce fichier tu feras la liste de toutes compétences en informatique. Cela peut être une liste de programmes que tu connais et/ou que tu utilises, de langages que tu connais ou que tu souhaiterais apprendre, de choses que tu sais faire (exemple : faire un gif animé),...
 - Affiche le contenu du dossier [Terminal].
-- Crée le répertoire [Skills] et crée un fichier `reussite.md` où tu feras la liste de toutes compétences en informatique. Cela peut être une liste de programmes que tu connais et/ou que tu utilises, de langages que tu connais ou que tu souhaiterais apprendre, de choses que tu sais faire (exemple : faire un gif animé),...
-- Crée le répertoire `becode_projects` dans lequel tu mettras tous tes projets de développement durant ton passage à BeCode.
+
 
