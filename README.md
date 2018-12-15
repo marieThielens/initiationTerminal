@@ -16,7 +16,9 @@ Créez un document texte qui va servir de résumé :
   - de supprimer ce fichier ;
   - de supprimer un dossier et son contenu ;
   - de déplacer un fichier ou un dossier d'un endroit à un autre ; 
-  4. Qu'est-ce que Vim ? 
+  4. Qu'est-ce que Vim ?  
+  - Commande pour ouvrir vim sur un fichier ; `vim nomdufichier`
+  - commande pour quitter vim : `:q!`
 
 Si tu ne sais pas, c'est le moment de demander à ton nouveau BFF : Google !
 En effet, chez BeCode, avant de demander à son voisin, on demande d'abord à Internet.
