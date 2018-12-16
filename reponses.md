@@ -14,7 +14,7 @@ Sur macOS : `CMD + SPACE`, puis écrire Terminal (ou iTerm), Enter.
   - de créer un repertoire/dossier ; `mkdir nomdudossier`
   - de créer un fichier ; `touch nomdufichier`
   - de renommer ce fichier ; `cp fichier_à_copier lieu_de_destination`
-  - de copier ce fihier dans un autre dossier ; `cp -i source destination`-u vous avertit si vous tentez d'écraser des fichiers existants 
+  - de copier ce fihier dans un autre dossier ; `cp -i source destination`-i vous avertit si vous tentez d'écraser des fichiers existants 
   - de supprimer ce fichier ; `rm nomdufichier`
   - de supprimer un repertoire/dossier et son contenu ; `rm -r nomdufichier`
   - de déplacer un fichier ou un repertoire/dossier d'un endroit à un autre ; `mv [fichier_à_déplacer] [lieu_de_destination] 
