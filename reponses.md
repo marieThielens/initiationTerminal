@@ -11,14 +11,13 @@ Sur macOS : `CMD + SPACE`, puis écrire Terminal (ou iTerm), Enter.
   - de naviguer entre les dossier ; `cd`
   - de savoir exactement où tu te trouves, dans quel dossier ? ; `pwd`
   - d'afficher le contenu d'un répertoire/ d'un dossier : `ls`
-  - de créer un dossier ; `cd nomdudossier`
+  - de créer un repertoire/dossier ; `mkdir nomdudossier`
   - de créer un fichier ; `touch nomdufichier`
   - de renommer ce fichier ; `cp fichier_à_copier lieu_de_destination`
+  - de copier ce fihier dans un autre dossier ; `cp -i source destination`-u vous avertit si vous tentez d'écraser des fichiers existants 
   - de supprimer ce fichier ; `rm nomdufichier`
-  - de supprimer un dossier et son contenu ; `rm -r nomdufichier`
-  - de déplacer un fichier ou un dossier d'un endroit à un autre ; `mv [fichier_à_déplacer] [lieu_de_destination]`
-  
-  - 
+  - de supprimer un repertoire/dossier et son contenu ; `rm -r nomdufichier`
+  - de déplacer un fichier ou un repertoire/dossier d'un endroit à un autre ; `mv [fichier_à_déplacer] [lieu_de_destination] 
   
   4. Qu'est-ce que Vim ? 
   
