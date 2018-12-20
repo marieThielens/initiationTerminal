@@ -12,7 +12,8 @@ Créez un document texte qui va servir de résumé :
   - d'afficher le contenu d'un répertoire/ d'un dossier. Faites une capture d'écran du résultat de cette commande et mettez l'image dans votre document word ;
   - de créer un répertoire ;
   - de créer un fichier ;
-  - de créer un fichier et l'éditer dans le terminal ; 
+  - de créer un fichier ; 
+  - d'ouvrir un éditeur de texte dans votre terminal ;
   - de renommer ce fichier ;
   - de supprimer ce fichier ;
   - de supprimer un dossier et son contenu ;
