@@ -13,7 +13,7 @@ Sur macOS : `CMD + SPACE`, puis écrire Terminal (ou iTerm), Enter.
   - d'afficher le contenu d'un répertoire/ d'un dossier : `ls`
   - de créer un repertoire/dossier ; `mkdir nomdudossier`
   - de créer un fichier ; `touch nomdufichier`
-  - d'ouvrir un éditeur de texte dans votre terminal ; `nano nomDuFichier`
+  - d'ouvrir un éditeur de texte dans votre terminal ; `nano nomDuFichier.txt`
   - de renommer ce fichier ; `cp fichier_à_copier lieu_de_destination`
   - de copier ce fihier dans un autre dossier ; `cp -i source destination`-i vous avertit si vous tentez d'écraser des fichiers existants 
   - de supprimer ce fichier ; `rm nomdufichier`
